@@ -89,6 +89,7 @@ const tree = new BinarySearchTree();
 
 tree.insert(5);
 tree.insert(4);
-tree.insert(6);
+tree.insert(22);
 console.log(tree);
-console.log(tree.find(4));
+
+
